@@ -1,2 +1,5 @@
 #dependencies
+/.vscode
+/__pycache__
+
 services.py
